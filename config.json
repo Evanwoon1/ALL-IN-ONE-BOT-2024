@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://applicationresult1:applicationresult@discordbot.avmnv.mongodb.net/?retryWrites=true&w=majority",
+    "mongodbUri": "mongodb+srv://Evanwoon1:<db_stuff>@cluster0.2upyu.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
