@@ -2,8 +2,8 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://Evanwoon1:<db_stuff>@cluster0.2upyu.mongodb.net/?retryWrites=true&w=majority",
-    "excessCommands": {
+    "mongodbUri": "mongodb+srv://Evanwoon1:3vanw00n13@cluster0.2upyu.mongodb.net/?retryWrites=true&w=majority",
+    "excessCommands": false
         "utility": true,
         "other": true,
         "hentai": true,
